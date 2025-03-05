@@ -1,4 +1,6 @@
 tensorflow
-librosa
+librosa 
+pywebview 
+gradio
 birdnetlib
 

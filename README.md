@@ -13,6 +13,6 @@ Requires an installation of Python 3.9+.
 Create a Python virtual environment and install the project dependencies:
 ```bash
 python3 -m venv ESCSP_BirdNET
-source ESCSP_BirdNET/bin/active
+source ESCSP_BirdNET/bin/activate
 pip install -r requirements.txt
 
